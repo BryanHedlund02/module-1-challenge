@@ -1,2 +1,2 @@
 # module-1-challenge
-Module 1 Challenge for coding bootcamp
+# Code Refactor Starter Code
